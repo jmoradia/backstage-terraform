@@ -5,5 +5,5 @@ metadata:
   description: An example of a Backstage application.
 spec:
   type: website
-  owner: john@example.com
+  owner: jmoradia
   lifecycle: experimental
